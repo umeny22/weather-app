@@ -1,12 +1,4 @@
 <html>
-<!--Created by: Menyie Udofa
-    Supervised by: Clara Udofa
-    Date: 1st September 2019
-    Name: Weather Forcast App
-    
-    ~This is a weather forcast app, with user friendly Interface that stores the information for any location that has been checked for 24 hours.
-    To get started simply enter the name of the location you wish to know the weather and click search.-->
-    
 <head>
   <meta charset="utf-8">
   <title>Weather_Forcast_App</title>
